@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+}
+.navbar,li,a{
+    display: flex;
+    justify-content: center;
+    padding: 3px;
+    
+    list-style-type: none;
+    text-decoration: none;
+    
+    font-family: 'Pacifico', cursive;
+    font-size: 35px;
+    color: black;
+}
+a:hover{
+    background-color:#BE4193;
+    border-radius: 14px;
+}
+marquee{
+    background-color:#BE4193;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-size: 40px;
+}
