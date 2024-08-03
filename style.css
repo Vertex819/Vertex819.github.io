@@ -1,0 +1,15 @@
+*{
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Nav,a{
+    text-align: center;
+    text-decoration: none;
+    color: blue;
+    font-size: larger;
+}
+
+.Heading{
+        text-align: center;
+    }
